@@ -1,1 +1,2 @@
-# Hello Katie's Birds
+# Home
+[Bird List](/birds/)
