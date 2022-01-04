@@ -1,16 +1,18 @@
 # Anhinga
-Size:
+Anhinga anhinga
 #
-Male:
+Size: 33-37" (84-94 cm); up to 3 3/4' wingspan.
 #
-Female:
+Male: All black with glossy green and white spots and streaks on shoulders and wings. Long neck and tail. Long, narrow yellow bill.
 #
-Juvenile:
+Female: Similar to male, light brown neck and breast.
 #
-Eggs:
+Juvenile: Similar to female, light brown to white body.
 #
-Migration:
+Eggs: 2-4 eggs; light blue without markings.
 #
-Food:
+Migration: Complete to non-migrator, to coastal Texas and Mexico.
+#
+Food: Fish, aquatic insects, crustaceans and small mammals.
 #
 [Birds list](/birds/)
