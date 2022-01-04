@@ -1,4 +1,5 @@
 # Northern Cardinals
+
 Cardinalis cardinalis
 
   Size: 8-9"  (20-23 cm)
@@ -14,5 +15,3 @@ Eggs: 3-4 eggs; bluish white with brown markings.
 Migration: Non-migrator
 
 Food: A Northern Cardinal eats seeds, insects, and fruit. It will come to seed bird feeders.
-
-[Birds List](/birds/)
