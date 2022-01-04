@@ -2,7 +2,8 @@ module.exports = {
     title: "Katie's Bird Site",
     description: 'My world of birds.', //Website description
     lang: "en-US",
-    base: '/katiebirds/', //  The default path during deployment / secondary address / base can be used/
+    base: "/",
+    //base: '/katiebirds/dist/', //  The default path during deployment / secondary address / base can be used/
     // Lang: 'en US', / / language
     // Page header configuration, icon, css, js
     head: [
