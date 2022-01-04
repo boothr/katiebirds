@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a as t}from"./app.ee580945.js";const m='{"title":"Birds Index","description":"","frontmatter":{},"relativePath":"birds/index.md","lastUpdated":1641331848103}',i={},d=t("",6),s=[d];function n(_,o,l,p,c,h){return r(),e("div",null,s)}var x=a(i,[["render",n]]);export{m as __pageData,x as default};
