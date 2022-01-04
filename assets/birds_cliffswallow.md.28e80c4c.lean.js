@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a as o}from"./app.f3618cc4.js";const h='{"title":"Cliff Swallow","description":"","frontmatter":{},"relativePath":"birds/cliffswallow.md","lastUpdated":1641303367510}',i={},l=o("",9),s=[l];function r(c,n,p,d,_,f){return t(),e("div",null,s)}var m=a(i,[["render",r]]);export{h as __pageData,m as default};
