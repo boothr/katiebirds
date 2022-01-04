@@ -2,8 +2,8 @@ module.exports = {
     title: "Katie's Bird Site",
     description: 'My world of birds.', //Website description
     lang: "en-US",
-    base: "/",
-    //base: '/katiebirds/dist/', //  The default path during deployment / secondary address / base can be used/
+    //base: "/",
+    base: '/katiebirds/', //  The default path during deployment / secondary address / base can be used/
     // Lang: 'en US', / / language
     // Page header configuration, icon, css, js
     head: [
@@ -18,7 +18,7 @@ module.exports = {
     ],
     // Theme configuration
     themeConfig: {
-      repo: 'vuejs/vitepress', // Your github warehouse address will jump in the upper right corner of the page
+      repo: 'boothr/katiebirds/', // Your github warehouse address will jump in the upper right corner of the page
       //   Head navigation
       nav: [
         { text: 'Home', link: '/' },

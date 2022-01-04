@@ -2,11 +2,11 @@
 
 Cardinalis cardinalis
 
-  Size: 8-9"  (20-23 cm)
+Size: 8-9"  (20-23 cm)
 
-  Male: Red with a black mask that extends from the face to the throat. It has a large and a large red bill.
+Male: Red with a black mask that extends from the face to the throat. It has a large and a large red bill.
 
-  Female: Light brown with a black mask, large reddish bill, and red tinges on the crest and wings.
+Female: Light brown with a black mask, large reddish bill, and red tinges on the crest and wings.
 
 Juvenile: Same as the female but with a blackish-gray bill.
 

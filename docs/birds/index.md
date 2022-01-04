@@ -1,9 +1,9 @@
-[Home](/)
+[Home](./)
 # Birds Index
-[Anhinga](/birds/anhinga)
+[Anhinga](./birds/anhinga)
 
-[Cardinal](/birds/cardinal)
+[Cardinal](./birds/cardinal)
 
-[Cliff Swallow](/birds/cliffswallow)
+[Cliff Swallow](./birds/cliffswallow)
 
-[Blue Jay](/birds/bluejay)
+[Blue Jay](./birds/bluejay)
