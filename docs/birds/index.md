@@ -3,7 +3,7 @@
 
 [Anhinga](/birds/anhinga)
 
-[Black-chinned Humingbird](/birds/blackchinnedhumingbird)
+[Black-chinned Hummingbird](/birds/blackchinnedhummingbird)
 
 [Blue Jay](/birds/bluejay)
 
