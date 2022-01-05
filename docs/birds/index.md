@@ -1,16 +1,16 @@
 [Home](/)
 # Birds Index
 
-[Anhinga](/birds/anhinga)
+[Anhinga](./anhinga)
 
-[Black-chinned Hummingbird](/birds/blackchinnedhummingbird)
+[Black-chinned Hummingbird](./blackchinnedhummingbird)
 
-[Blue Jay](/birds/bluejay)
+[Blue Jay](./bluejay)
 
-[Cliff Swallow](/birds/cliffswallow)
+[Cliff Swallow](./cliffswallow)
 
-[Northern Cardinal](/birds/cardinal)
+[Northern Cardinal](./cardinal)
 
-[White-breated Nuthatch](/birds/whitebreastednuthatch)
+[White-breated Nuthatch](./whitebreastednuthatch)
 
-[Redhead](/birds/redhead)
+[Redhead](./redhead)
