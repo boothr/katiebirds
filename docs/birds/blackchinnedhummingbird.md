@@ -1,4 +1,4 @@
-# Black-chinned Humingbird
+# Black-chinned Hummingbird
 Archilochus alexandri
 
 Size: 3 3/4" (9.5 cm)
