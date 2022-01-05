@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as i}from"./app.88465d81.js";const u='{"title":"Black-chinned Hummingbird","description":"","frontmatter":{},"relativePath":"birds/blackchinnedhummingbird.md","lastUpdated":1641349081933}',n={},c=i("",9),r=[c];function d(h,l,o,s,p,m){return t(),a("div",null,r)}var b=e(n,[["render",d]]);export{u as __pageData,b as default};

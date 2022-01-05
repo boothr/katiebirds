@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a as i}from"./app.a78036dc.js";const m='{"title":"Redhead","description":"","frontmatter":{},"relativePath":"birds/redhead.md","lastUpdated":1641345449872}',d={},r=i("",9),n=[r];function o(s,p,c,l,h,_){return t(),e("div",null,n)}var u=a(d,[["render",o]]);export{m as __pageData,u as default};

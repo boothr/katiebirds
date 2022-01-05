@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as i}from"./app.88465d81.js";const m='{"title":"White-breasted Nuthatch","description":"","frontmatter":{},"relativePath":"birds/whitebreastednuthatch.md","lastUpdated":1641341668327}',s={},r=i("",9),n=[r];function h(c,p,d,o,l,_){return a(),t("div",null,n)}var g=e(s,[["render",h]]);export{m as __pageData,g as default};
