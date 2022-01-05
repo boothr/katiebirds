@@ -1,1 +1,0 @@
-import{_ as a,c as n,o as e,a as t}from"./app.88465d81.js";const m='{"title":"Anhinga","description":"","frontmatter":{},"relativePath":"birds/anhinga.md","lastUpdated":1641337374395}',i={},o=t("",9),s=[o];function r(l,p,c,d,h,_){return e(),n("div",null,s)}var u=a(i,[["render",r]]);export{m as __pageData,u as default};
