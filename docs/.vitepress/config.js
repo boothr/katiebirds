@@ -2,8 +2,8 @@ const birdSidebar = [
     { text: "Anhinga", link: "/birds/anhinga"},
     { text: "Black-chinned Hummingbird", link: "/birds/blackchinnedhummingbird"},
     { text: "Blue Jays", link: "/birds/bluejay"},
-    { text: "Anhinga", link: "/birds/anhinga"},
     { text: "Cliff Swallow", link: "/birds/cliffswallow"},
+    { text: "Northern Cardinal", link: "/birds/cardinal"},
     { text: "Redhead", link: "/birds/redhead"},
     { text: "White-breasted Nuthatch", link: "/birds/whitebreastednuthatch"},
 ];
