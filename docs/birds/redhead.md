@@ -1,5 +1,5 @@
 # Redhead
-Aythya americana
+***Aythya americana***
 
 Size: 19" (48 cm)
 
@@ -14,3 +14,7 @@ Eggs: 9-14 eggs; white without markings.
 Migration: Complete, to Texas.
 
 Food: Insects, seeds, aquatic plants.
+
+::: tip Fun Facts!
+Redheads usually build nests directly on on the water's surface.
+:::

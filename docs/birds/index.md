@@ -1,5 +1,7 @@
-[Home](/)
-# Birds Index
+[Home](../)
+# Birds List
+
+<!-- [Sample Page](./samplepage) -->
 
 [Anhinga](./anhinga)
 
@@ -11,6 +13,6 @@
 
 [Northern Cardinal](./cardinal)
 
-[White-breated Nuthatch](./whitebreastednuthatch)
+[White-breasted Nuthatch](./whitebreastednuthatch)
 
 [Redhead](./redhead)

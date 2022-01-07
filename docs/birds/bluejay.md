@@ -1,6 +1,6 @@
 # Blue Jays
 
-Cyanocitta cristata
+***Cyanocitta cristata***
 
 Size: 12" (30 cm)
 
@@ -15,3 +15,7 @@ Eggs: 4-5 eggs; green to blue with brown markings.
 Migration: Non-migrator to partial migrator; will move around to find an abundant food source.
 
 Food: Insects, fruit, carrion, seeds, nuts; will visit seed feeders and ground feeders with corn or peanuts.
+
+::: info Fun Facts!
+Blue Jays are loud and noisy, and will mimic other birds.
+:::

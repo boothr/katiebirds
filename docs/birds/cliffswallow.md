@@ -1,5 +1,5 @@
 # Cliff Swallow
-Petrochelidon pyrrhonota
+***Petrochelidon pyrrhonota***
 
 Size: 5 1/2" (14 cm)
 
@@ -9,8 +9,12 @@ Female: Same as male.
 
 Juvenile: Similar to adult, lacks distinct patterning.
 
-Eggs: 4-6; pale white with brown markings.
+Eggs: 4-6 eggs; pale white with brown markings.
 
 Migration: Complete, to South America.
 
 Food: Insects
+
+::: tip Fun Facts!
+Commonly found around bridges, especailly bridges over water.
+:::

@@ -1,5 +1,5 @@
 # Black-chinned Hummingbird
-Archilochus alexandri
+***Archilochus alexandri***
 
 Size: 3 3/4" (9.5 cm)
 
@@ -9,8 +9,12 @@ Female: Same as male, but lacking the throat patch and black chin, but has white
 
 Juvenile: Similar to female.
 
-Eggs: 1-3; white without markings.
+Eggs: 1-3 eggs; white without markings.
 
 Migration: Complete, to Central and South America.
 
 Food: Insects and nectar. Will come to nectar feeders.
+
+::: tip Fun Facts!
+It takes approximately ***five*** black-chinned hummingbirds to equal the weight of ***one*** chickadee!
+:::
