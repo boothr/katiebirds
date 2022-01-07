@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a as r}from"./app.71205104.js";const m='{"title":"Northern Cardinals","description":"","frontmatter":{},"relativePath":"birds/cardinal.md","lastUpdated":1641424627519}',i={},n=r("",10),s=[n];function o(l,d,c,h,p,_){return t(),e("div",null,s)}var f=a(i,[["render",o]]);export{m as __pageData,f as default};

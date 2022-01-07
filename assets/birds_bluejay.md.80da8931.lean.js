@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a as s}from"./app.71205104.js";const b='{"title":"Blue Jays","description":"","frontmatter":{},"relativePath":"birds/bluejay.md","lastUpdated":1641424629576}',i={},o=s("",10),r=[o];function n(l,d,c,p,u,_){return t(),e("div",null,r)}var g=a(i,[["render",n]]);export{b as __pageData,g as default};

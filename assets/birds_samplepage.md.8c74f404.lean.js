@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as i}from"./app.71205104.js";const f='{"title":"Sample Page","description":"","frontmatter":{},"relativePath":"birds/samplepage.md","lastUpdated":1641424462818}',o={},r=i("",11),p=[r];function s(n,m,c,l,d,h){return t(),a("div",null,p)}var g=e(o,[["render",s]]);export{f as __pageData,g as default};
