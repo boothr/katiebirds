@@ -5,11 +5,13 @@
 
 [Anhinga](./anhinga)
 
-[Black-chinned Hummingbird](./blackchinnedhummingbird)
+[Black-chinned Hummingbird](./groups/hummingbirds/blackchinnedhummingbird)
 
 [Blue Jay](./bluejay)
 
 [Cliff Swallow](./cliffswallow)
+
+[Green Violet-ear](./groups/hummingbirds/greenvioletearhummingbird.md)
 
 [Northern Cardinal](./cardinal)
 
